@@ -1,0 +1,9 @@
+pwd utiliza para ver ubicación
+ls ver archivos
+cd.. devolverse
+cd mas algo adelantar
+git init inicializar el git
+git pus subir archivos
+git commit actualizar
+git add . añadir
+git checkout -b desarrollador
